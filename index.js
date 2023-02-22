@@ -7,9 +7,7 @@ import GorselGetir from './GorselGetir';
 
 import reportWebVitals from './reportWebVitals';
 
-import SinifListesi from './SinifListesi';
 
-const sinif = ["Ayşe", "Fatma", "Elif" ,"Esra","Gamze"];
 
 
 
